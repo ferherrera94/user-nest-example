@@ -1,0 +1,10 @@
+import { UserService } from './user.service';
+export declare class UserController {
+    private readonly userService;
+    constructor(userService: UserService);
+    findAll(): Promise<import("./user.entity").UserEntity[]>;
+    createUser(body: {
+        name: string;
+        email: string;
+    }): Promise<import("./user.entity").UserEntity>;
+}
