@@ -24,7 +24,7 @@ A simple NestJS API for managing users with PostgreSQL and TypeORM. This project
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) (v14 or higher)
+- [Node.js](https://nodejs.org/) (v18 or higher)
 - [npm](https://www.npmjs.com/)
 - [PostgreSQL](https://www.postgresql.org/) (or Docker to run a PostgreSQL container)
 
