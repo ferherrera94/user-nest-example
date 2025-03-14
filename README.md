@@ -116,11 +116,3 @@ user-nest-example/
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
 ```
 
----
-
-### Notes
-
-- **License Section:** The License section now indicates that the project is licensed under GNU GPL v3.0.  
-- **LICENSE File:** Ensure you include a `LICENSE` file in your repository containing the full text of the GNU GPL v3 license.
-
-Feel free to adjust any sections to better match your project's specifics. Happy coding!
